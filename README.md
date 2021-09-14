@@ -18,6 +18,7 @@
  
  后台访问地址：http://localhost:8080/squirrel/admin
  
+ 项目演示视频地址：https://www.bilibili.com/video/BV1Rf4y1A7nd/
  
  主要创新点：响应式布局
  
