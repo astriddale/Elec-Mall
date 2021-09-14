@@ -1,0 +1,51 @@
+
+asquid:S3027‡"JPut single-quotes around '.' to use the faster "lastIndexOf(char)" method.(Ö›¯s
+%squid:RedundantThrowsDeclarationCheckA"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(¤Ç­ÿ
+%squid:RedundantThrowsDeclarationCheckv"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(ÙÊ³
+£%squid:RedundantThrowsDeclarationCheck’"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck´"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Á¨Ø
+%squid:RedundantThrowsDeclarationCheckÑ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Á¨Ø
+£%squid:RedundantThrowsDeclarationCheckû"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(§Íèùÿÿÿÿ
+%squid:RedundantThrowsDeclarationCheck“"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(Ôó“š
+£%squid:RedundantThrowsDeclarationCheck°"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(³¾²ÿÿÿÿÿ
+£%squid:RedundantThrowsDeclarationCheckŞ"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+œ%squid:RedundantThrowsDeclarationCheckş"jRemove the declaration of thrown exception 'java.lang.IllegalStateException' which is a runtime exception.(ŠœÉë
+£%squid:RedundantThrowsDeclarationCheck¡"lRemove the declaration of thrown exception 'java.lang.Exception', as it cannot be thrown from method's body.(èİÎÑşÿÿÿÿ
+bsquid:S4488é"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†¨öŸ
+>squid:S1075‰"&Remove this hard-coded path-delimiter.(Êú²„
+psquid:S2293M"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¢Ğü
+psquid:S2293]"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¢Ğü
+psquid:S2293x"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ§ÄŸ
+qsquid:S2293š"YReplace the type specification in this constructor call with the diamond operator ("<>").(Š¢Ğü
+qsquid:S2293·"YReplace the type specification in this constructor call with the diamond operator ("<>").(Æ§ÄŸ
+vsquid:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+vsquid:S2293’"YReplace the type specification in this constructor call with the diamond operator ("<>").(™ºöºıÿÿÿÿ
+csquid:CommentedOutCodeLine¼"<This block of commented-out lines of code should be removed.(ÎˆÀ¡
+hsquid:CommentedOutCodeLineË"<This block of commented-out lines of code should be removed.(ú»‹²şÿÿÿÿ
+hsquid:CommentedOutCodeLineƒ"<This block of commented-out lines of code should be removed.(×°Ô¤şÿÿÿÿ
+Tsquid:S2589…"7Remove this expression which always evaluates to "true"(ùÌ‡¤şÿÿÿÿ
+Wsquid:S2441»":Make "User" serializable or don't store it in the session.(ğŒÔ«şÿÿÿÿ
+Wsquid:S2441î":Make "User" serializable or don't store it in the session.(ğŒÔ«şÿÿÿÿ
+^squid:S00112A"FDefine and throw a dedicated exception instead of using a generic one.(¤Ç­ÿ
+^squid:S00112v"FDefine and throw a dedicated exception instead of using a generic one.(ÙÊ³
+dsquid:S00112’"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+_squid:S00112´"FDefine and throw a dedicated exception instead of using a generic one.(Á¨Ø
+_squid:S00112Ñ"FDefine and throw a dedicated exception instead of using a generic one.(Á¨Ø
+dsquid:S00112û"FDefine and throw a dedicated exception instead of using a generic one.(§Íèùÿÿÿÿ
+_squid:S00112“"FDefine and throw a dedicated exception instead of using a generic one.(Ôó“š
+_squid:S00112¤"FDefine and throw a dedicated exception instead of using a generic one.(è¡ô
+dsquid:S00112°"FDefine and throw a dedicated exception instead of using a generic one.(³¾²ÿÿÿÿÿ
+dsquid:S00112Ş"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+dsquid:S00112¡"FDefine and throw a dedicated exception instead of using a generic one.(èİÎÑşÿÿÿÿ
+osquid:S00117×"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç»ùÿÿÿÿ
+jsquid:S00117ë"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117ü"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117”"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117–"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Åñˆ½
+jsquid:S00117³"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117¶"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øêá´
+jsquid:S00117Ê"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117à"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117é"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Øêá´
+jsquid:S00117‚"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¢¡¤™
+jsquid:S00117§"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó

@@ -1,0 +1,32 @@
+body
+{
+	margin: 0;
+	padding: 0;
+	background-image: url(../img/bgimg.jpg);	/* 背景图片 */
+	background-repeat: no-repeat;	/* 背景图片不重复 */
+	background-size:cover;
+}
+#loginbox
+{
+	margin: 0 auto;	/* login框剧中 */
+	margin-top: 200px; /* login框与顶部的距离 */
+	padding: 20px 50px;	/* login框内部的距离(内部与输入框和按钮的距离) */
+	background-color: #00000070;	/* login框背景颜色和透明度 */
+	width: 400px;
+	height: 300px;
+	border-radius: 10px;	/* 圆角边 */
+	text-align: center;	/* 框内所有内容剧中 */
+}
+
+#loginbox h1
+{
+	color: white;	/* LOGIN字体颜色 */
+}
+#bigBox .inputBox .inputText input
+{
+	border: 0;	/* 删除输入框边框 */
+	padding: 10px 10px;	/* 输入框内的间距 */
+	border-bottom: 1px solid white;	/* 输入框白色下划线 */
+	background-color: #00000000;	/* 输入框透明 */
+	color: white;	/* 输入字体的颜色 */
+}

@@ -1,0 +1,149 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="issues">
+    <option name="index">
+      <map>
+        <entry key="/Dummy.txt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/controller/api/v1/DeliveryOrderApiController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/controller/app/v1/MessagePushController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/controller/app/v1/WxScheduleOrderController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/controller/app/v1/WxUserController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/controller/app/v1/service/WxUserService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/java/com/quanyou/qup/delivery/biz/util/ConstantUtil.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="D:/quanyou/qup-delivery/qup-delivery-biz/src/main/resources/bootstrap-dev.yml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/README.md">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ldu/controller/AdminController.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ldu/dao/GoodsMapper.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ldu/service/GoodsService.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/java/com/ldu/service/impl/GoodsServiceImpl.java">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/conf/generatorConfig.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/resources/conf/jdbc.properties">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/goods/goods_list.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/login.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/main_bottom.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/admin/main_left.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/goods/catelogGoods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/goods/detailGoods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/goods/homeGoods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/goods/pubGoods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/goods/searchGoods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/index.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/basic.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/src/main/webapp/WEB-INF/pages/user/goods.jsp">
+          <value>
+            <set />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

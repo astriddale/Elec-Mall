@@ -1,0 +1,31 @@
+
+asquid:S4488V"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÚŞ•
+bsquid:S4488ï"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ûÈ§‚
+Lsquid:S1066"/Merge this if statement with the enclosing one.(¢²î¼øÿÿÿÿ
+vsquid:S2293÷"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Èµ«ÿÿÿÿÿ
+vsquid:S2293“"YReplace the type specification in this constructor call with the diamond operator ("<>").(²Èµ«ÿÿÿÿÿ
+bsquid:CommentedOutCodeLinei"<This block of commented-out lines of code should be removed.( ”“ô
+Rsquid:S2441":Make "User" serializable or don't store it in the session.(åõÁì
+Wsquid:S2441¥":Make "User" serializable or don't store it in the session.(ğŒÔ«şÿÿÿÿ
+Wsquid:S2441¸":Make "User" serializable or don't store it in the session.(ğŒÔ«şÿÿÿÿ
+jsquid:S00117ˆ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ›¼ö
+jsquid:S00117¢"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117´"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117Ğ"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117ä"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117ô"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+jsquid:S00117«"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ŸÀÃú
+jsquid:S00117¬"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+osquid:S00117­"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœôøÿÿÿÿ
+jsquid:S00117º"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(•¢…
+jsquid:S00117»"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+osquid:S00117¼"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœôøÿÿÿÿ
+jsquid:S00117Ò"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+osquid:S00117Ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœôøÿÿÿÿ
+jsquid:S00117â"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+osquid:S00117ã"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(éœôøÿÿÿÿ
+jsquid:S00117ó"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ø×ó
+Tsquid:UselessImportCheck"0Remove this unused import 'java.io.PrintWriter'.(ÓŞÏÛ
+Ysquid:UselessImportCheck"0Remove this unused import 'java.io.IOException'.(ªº»Úıÿÿÿÿ
+_squid:UselessImportCheck"6Remove this unused import 'com.ldu.pojo.NoticeExtend'.(â¶“³ùÿÿÿÿ

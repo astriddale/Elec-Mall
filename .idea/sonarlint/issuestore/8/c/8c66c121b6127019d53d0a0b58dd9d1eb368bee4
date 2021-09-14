@@ -1,0 +1,22 @@
+
+nsquid:S4488‚"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(±Œ»øÿÿÿÿ8Â‹ÀÎÈ-
+isquid:S4488ã"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(Ï°ãğ8Â‹ÀÎÈ-
+isquid:S4488¶"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(­ŞÜ¤8Â‹ÀÎÈ-
+}squid:S1488Å"^Immediately return this expression instead of assigning it to the temporary variable "orders".(‹ĞÕ·8Â‹ÀÎÈ-
+lsquid:S4488ı"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(Ëë®‚ûÿÿÿÿ8Â‹ÀÎÈ-
+Usquid:S3972ß"7Move this "if" to a new line or add the missing "else".(ËÄøR8Â‹ÀÎÈ-
+isquid:S4488Ê"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÇéÖ†8Â‹ÀÎÈ-
+|squid:S1488ì"]Immediately return this expression instead of assigning it to the temporary variable "goods".(àß»Æ8Â‹ÀÎÈ-
+^squid:S2441;";Make "Admin" serializable or don't store it in the session.(ğÙ”£ùÿÿÿÿ8Â‹ÀÎÈ-
+isquid:S4488Ô"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¹Šİí8Â‹ÀÎÈ-
+fsquid:S44880"HReplace "@RequestMapping(method = RequestMethod.GET)" with "@GetMapping"(¤úÙ8Â‹ÀÎÈ-
+isquid:S4488š"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(åÌ£8Â‹ÀÎÈ-
+osquid:CommentedOutCodeLineÉ"<This block of commented-out lines of code should be removed.(¦ªÕøÿÿÿÿ8Â‹ÀÎÈ-
+^squid:S2441H";Make "Admin" serializable or don't store it in the session.(ğÙ”£ùÿÿÿÿ8Â‹ÀÎÈ-
+isquid:S4488¨"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(¶—Ìâ8Â‹ÀÎÈ-
+nsquid:S4488í"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ÿéÁ•ıÿÿÿÿ8Â‹ÀÎÈ-
+isquid:S4488¥"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(†òÉ®8Â‹ÀÎÈ-
+nsquid:S4488ñ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(ïòµÀşÿÿÿÿ8Â‹ÀÎÈ-
+€squid:S1488•"\Immediately return this expression instead of assigning it to the temporary variable "user".(Í­Ëôûÿÿÿÿ8Â‹ÀÎÈ-
+squid:S1488Â"]Immediately return this expression instead of assigning it to the temporary variable "purse".(¶Ú«øÿÿÿÿ8Â‹ÀÎÈ-
+nsquid:S4488ñ"JReplace "@RequestMapping(method = RequestMethod.POST)" with "@PostMapping"(“çÀÿÿÿÿÿ8Â‹ÀÎÈ-
